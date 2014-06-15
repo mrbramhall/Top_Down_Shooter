@@ -70,7 +70,7 @@ fpsClock = pygame.time.Clock()
 
 # Main game loop
 while True:
-    
+
     # Limit FPS
     fpsClock.tick(MAX_FPS)
 
